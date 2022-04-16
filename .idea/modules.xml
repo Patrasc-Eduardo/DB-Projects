@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DB_Projects.iml" filepath="$PROJECT_DIR$/.idea/DB_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/pservice/pservice.iml" filepath="$PROJECT_DIR$/payment-service/pservice/pservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/pp/shoppingcart.iml" filepath="$PROJECT_DIR$/shopping-cart/pp/shoppingcart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/pservice/.mvn/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/payment-service/pservice/.mvn/wrapper/wrapper.iml" />
     </modules>
   </component>
 </project>
